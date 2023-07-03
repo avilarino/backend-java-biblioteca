@@ -1,0 +1,10 @@
+package Biblioteca;
+
+public enum Estado {
+	
+	PRESTAMO_EXITOSO,
+	NO_HAY_EJEMPLARES,
+	TOPE_PRESTAMOS_ALCANZADO,
+	MULTA_VIGENTE;
+	
+}
