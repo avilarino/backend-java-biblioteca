@@ -2,15 +2,15 @@ package Biblioteca;
 
 public class Libro {
 	
-	String titulo;
-	String genero;
-	Editorial editorial;
-	String anio;
-	Autor autor;
-	String identificador;
-	String fecha;
-	EstadoLibro estado;
-	int cantidad;
+	private String titulo;
+	private String genero;
+	private Editorial editorial;
+	private String anio;
+	private Autor autor;
+	private String identificador;
+	private String fecha;
+	private EstadoLibro estado;
+	private int cantidad;
 
 	
 	

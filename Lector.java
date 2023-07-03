@@ -3,11 +3,11 @@ package Biblioteca;
 public class Lector {
 	
 	
-	String dni;
-	String direccion;
-	String telefono;
-	int prestamosVigentes = 0;
-	int fechaRetiro = 0;
+	private String dni;
+	private String direccion;
+	private String telefono;
+	private int prestamosVigentes = 0;
+	private int fechaRetiro = 0;
 	
 	
 	public Lector(String dni, String direccion, String telefono, int prestamosVigentes, int fechaRetiro) {
