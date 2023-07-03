@@ -2,9 +2,9 @@ package Biblioteca;
 
 public class Autor {
 
-	String nombre;
-	String nacionalidad;
-	String nacimiento;
+	private String nombre;
+	private String nacionalidad;
+	private String nacimiento;
 	
 	public Autor(String nombre, String nacionalidad, String nacimiento) {
 
